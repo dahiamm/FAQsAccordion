@@ -2,7 +2,6 @@
 
 Esta es mi solución para el reto [FAQ Accordion de Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz). Este desafío me ayudó a mejorar mis habilidades en HTML, CSS y JavaScript al crear un acordeón interactivo basado en un diseño específico.
 
----
 
 ## Tabla de Contenidos
 
@@ -17,7 +16,6 @@ Esta es mi solución para el reto [FAQ Accordion de Frontend Mentor](https://www
   - [Recursos Útiles](#recursos-útiles)
 - [Autor](#autor)
 
----
 
 ## Descripción General
 
@@ -37,7 +35,6 @@ Los usuarios deben poder:
 
 - **URL de la Solución**: [Mi solución](https://faqs-accordion-main.netlify.app)
 
----
 
 ## Mi Proceso
 
@@ -69,13 +66,10 @@ En proyectos futuros, quiero seguir mejorando en:
 - Documentación y tutoriales en línea para aprender conceptos como Flexbox y manipulación del DOM.
 - Comunidad de Frontend Mentor, que ofrece retroalimentación útil para mejorar la solución.
 
----
 
 ## Autor
 
 - **Perfil en Frontend Mentor**: [@dahiamm](https://www.frontendmentor.io/profile/dahiamm)
 - **GitHub**: [dahiamm](https://github.com/dahiamm)
-
----
 
 Completar este proyecto fue una gran experiencia, y me siento emocionada de aplicar lo que aprendí en futuros retos. ¡Gracias por tomarte el tiempo de revisar mi solución! 😊
